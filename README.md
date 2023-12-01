@@ -1,3 +1,3 @@
-Current version = 2.8.4.4
+Current version = 1.0.0.0
 # SimulationObjectForProgPLC_WithOpcUA
 В разработке
